@@ -37,18 +37,18 @@
 
     // Exemplo:
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
-
+    
 int main (){
     printf("desafio Super Trunfo\n");
     printf("novo conmit\n");
-    int numeroA01, numeroA02;
+    int cartaA01, cartaA02;
 
-    numeroA01 = 699.26;
-    numeroA02 = 699.26;
+    cartaA01 = 699.26;
+    cartaA02 = 700.30;
 
-    if (numeroA01 >= numeroA02) {
-        printf("numeroA01 é maior que o numeroA01");
+    if (cartaA01 >= cartaA02) {
+        printf("numeroA01 é maior que o numeroA02");
     }
-
+     printf("fora do if\n");
 
 }
