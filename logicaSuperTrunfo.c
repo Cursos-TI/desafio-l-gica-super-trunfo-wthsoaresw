@@ -41,5 +41,13 @@ int main() {
     // Exemplo:
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
 
-    return 0;
-}
+    return 0;}
+int main () {
+    int numeroA01, numeroA02;
+
+    numeroA01 = 699.26;
+    numeroA02 = 331.28;
+
+    if (numeroA01 > numeroA02) {
+        printf("numeroA01 é maior que o numeroA01");
+        }
